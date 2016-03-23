@@ -1,0 +1,7 @@
+body{text-align: center;}
+.branch{display:inline-block;margin: 20px;border: 1px solid #000;text-align: center;background: #fff;}
+.tree-0{width: 1000px;height: 400px;}
+.tree-1{width: 45%;height: 90%;}
+.tree-2{width: 38%;height: 90%;}
+.tree-3{width: 20%;height: 90%;}
+#controller{display: block;}
